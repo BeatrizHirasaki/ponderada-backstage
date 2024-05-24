@@ -109,5 +109,5 @@ CMD ["node", "packages/backend", "--config", "app-config.yaml"]
 **4.3 Acesso ao Backstage:**
    Após a execução do container, acessar 'http://localhost:7007' para utilizar o Catálogo de Serviços do Backstage.
 
-   ![aplicacao rodando}]()
+   ![aplicacao rodando}](https://github.com/BeatrizHirasaki/ponderada-backstage/blob/main/assets/aplicacao-rodando.png)
 
